@@ -15,4 +15,4 @@ There are a couple of payloads in there. The one I had that worked most of the
 time didn't work on bitbee bwapp vm, so I wrote another one for that which is now 
 the default. whatever. you get the idea.
 
-
+![screenshot](https://raw.githubusercontent.com/mycotoxic/shellshock/master/screenshot.png)
