@@ -12,7 +12,7 @@ or
 socat -,echo=0,raw tcp4-listen:1337
 ```
 There are a couple of payloads in there. The one I had that worked most of the 
-time didn't work on bitbee bwapp vm, so I wrote another one for that which is now 
+time didn't work on beebox bwapp vm, so I wrote another one for that which is now 
 the default. whatever. you get the idea.
 
 ![screenshot](https://raw.githubusercontent.com/mycotoxic/shellshock/master/screenshot.png)
